@@ -16,3 +16,7 @@ git checkout -b XXX #创建分支
 git checkout XXX #切换到XXX分支
 git branch -D #删除分支
 ```
+
+```sh
+git pull #拉取代码
+```
